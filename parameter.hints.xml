@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="PHP">
-        <added pattern="\yii\db\Query.select(columns,option)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
